@@ -1,10 +1,16 @@
 # Glossary
 
-## LeetCode
-
 ## Other
 
 Interleave Two Strings  
+
+## LeetCode
+
+### Easy
+
+### Medium
+
+### Hard
 
 ## CTCI
 
