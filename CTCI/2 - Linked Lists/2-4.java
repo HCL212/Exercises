@@ -74,7 +74,7 @@ class exercise {
     // elements bigger are put at the tail
     // elements smaller are put at the head
     Node partition(Node node, int x){
-        // head + tail are pointing to same node
+        // head + tail are pointing to same node (by reference, like C++ pointers)
         Node head = node;
         Node tail = node;
 

@@ -75,8 +75,57 @@ class exercise {
         System.out.println(list.toString());
     }
    
-    void sumLists(Node head1, Node head2){
-        
+    // elementary math from least significant # to most significant
+    Node sumLists(Node head1, Node head2){
+        // sumList will be out result
+        // curr is what we use to append elements to sumList
+        // p and q are reference pointers
+        Node sumList = new Node(0);
+        Node p = head1;
+        Node q = head2;
+        Node curr = sumList;
+        int carry = 0;
+
+        while (p != null || q != null){
+            // if p is not null then x = p.data, else x = 0
+            // if q is not null then x = q.data, else x = 0
+            int x = (p != null) ? p.data : 0;
+            int y = (q != null) ? q.data : 0;
+
+            // adding the column here
+            int sum = carry + x + y;
+
+            // deduct the new carry
+            carry = sum / 10;
+
+            // put result in next node
+            curr.next = new Node(sum % 10);
+
+            // iterate to next node in sum list
+            curr = curr.next;
+
+            // iterate the ref pointers
+            if (p != null) p = p.next;
+            if (q != null) q = q.next;
+        }
+
+        // if there is an extra carry by the end, append to list
+        if (carry > 0) {
+            curr.next = new Node(carry);
+        }
+
+        // return sumList.next because sumList head = 0 when initializing
+        return sumList.next;
+    }
+
+    // unfinished
+    void sumListsFollowUp(Node head1, Node head2){
+        // determine length of both lists
+        // if both lists are same length, then add them
+        // otherwise pad the shorter list with 0's in the front
+        // add the numbers recursively so that we can add
+        // the smaller numbers first
+        // see book for solution
     }
   
     public static void main(String args[]) { 
@@ -99,9 +148,21 @@ class exercise {
         list4.appendToTail(9);
         list4.appendToTail(5);
 
+        Node list5 = null;
+
         test.printList(list1);
+        System.out.println("+");
         test.printList(list2);
-        test.sumLists(list1, list2);
+        System.out.println("=");
+        test.printList(test.sumLists(list1, list2));
+
+        System.out.println("\n");
+
+        test.printList(list3);
+        System.out.println("+");
+        test.printList(list4);
+        System.out.println("=");
+        // test.printList(test.sumListsFollowUp(list3, list4));
     }
 } 
 
