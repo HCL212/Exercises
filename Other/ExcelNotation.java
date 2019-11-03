@@ -23,11 +23,9 @@ class exercise {
 
         StringBuilder column = new StringBuilder();
 
-        while (input > 0) {
+        while (input > 0 && column.length() < 2) {
             input -= 1;
-            if (column.length() < 2){
-                column.append((char) ('A' + input % 26));
-            }
+            column.append((char) ('A' + input % 26));
             input /= 26;
         }
 

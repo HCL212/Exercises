@@ -2,20 +2,26 @@
 
 ## Other
 
-Excel Notation (ie: 702 --> 1ZZ)  
-Interleave Two Strings  
+### Strings
 
-## LeetCode
+1) Excel Notation (ie: 702 --> 1ZZ)  
+2) Interleave Two Strings  
 
-### Easy
+### List  
+1) Consolation Prize (if int k is the last place to receive a prize...)  
+2) Max Events (2 lists, time slots/duration, find max num of events)  
 
-### Medium
+## LeetCode  
 
-### Hard
+### Easy  
 
-## CTCI
+### Medium  
 
-### Chapter 1 (Arrays and Strings)
+### Hard  
+
+## CTCI  
+
+### Chapter 1 (Arrays and Strings)  
 
 1) Is Unique  
 2) Check Permutation  
@@ -25,13 +31,13 @@ Interleave Two Strings
 6) String Compression  
 7) Rotate Matrix  
 8) Zero Matrix  
-9) String Rotation
+9) String Rotation  
 
 ### Chapter 2 (Linked Lists)
 
 1) Remove Dups  
 2) Return Kth to Last  
-3) Delete Middle Note
+3) Delete Middle Note  
 4) Partition  
 5) Sum Lists  
 6) Palindrome  
