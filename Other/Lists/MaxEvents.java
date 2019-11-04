@@ -21,6 +21,8 @@ class exercise {
         int nextTimeSlot = 0;
         int prevArrival = 0;
 
+        // iterate through arrival times
+        // if duplicate arrival times, figure out shortest event time
         for (int i = 0; i < arrival.size(); i++){
             if (arrival.get(i) == prevArrival){
                 if (arrival.get(i) + duration.get(i) < nextTimeSlot){

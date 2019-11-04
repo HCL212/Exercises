@@ -13,11 +13,25 @@
 
 ## LeetCode  
 
-### Easy  
+### Array 
 
-### Medium  
+### Binary  
 
-### Hard  
+### Dynamic Programming
+
+### Graph
+
+### Heap 
+
+### Interval 
+
+### Linked List 
+
+### Matrix 
+
+### String
+
+### Tree 
 
 ## CTCI  
 
