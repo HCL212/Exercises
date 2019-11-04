@@ -1,17 +1,8 @@
 # Glossary
 
-## Other
+## LeetCode 
 
-### Lists  
-1) Consolation Prize (if int k is the last place to receive a prize...)  
-2) Max Events (2 lists, time slots/duration, find max num of events)  
-
-### Strings
-
-1) Excel Notation (ie: 702 --> 1ZZ)  
-2) Interleave Two Strings  
-
-## LeetCode  
+## LeetCode (Guided)
 
 ### Array 
 
@@ -63,7 +54,7 @@
 1) Three in One (See book explanation) 
 2) Stack Min (See book explanation)
 3) Stack of Plates  
-4) Queue via Stacks  
+4) Queue via Stacks (See book explanation) 
 5) Sort Stack  
 6) Animal Shelter  
 
@@ -276,6 +267,17 @@
 26) Sparse Similarity  
 
 ### EPI
+
+## Other
+
+### Lists  
+1) Consolation Prize (if int k is the last place to receive a prize...)  
+2) Max Events (2 lists, time slots/duration, find max num of events)  
+
+### Strings
+
+1) Excel Notation (ie: 702 --> 1ZZ)  
+2) Interleave Two Strings  
 
 ## Authors
 
