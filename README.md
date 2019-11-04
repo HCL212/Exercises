@@ -46,8 +46,8 @@
 
 ### Chapter 3 (Stacks and Queues)
 
-1) Three in One  
-2) Stack Min  
+1) Three in One (See book explanation) 
+2) Stack Min (See book explanation)
 3) Stack of Plates  
 4) Queue via Stacks  
 5) Sort Stack  
