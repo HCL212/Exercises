@@ -7,7 +7,7 @@
 1) Excel Notation (ie: 702 --> 1ZZ)  
 2) Interleave Two Strings  
 
-### List  
+### Lists  
 1) Consolation Prize (if int k is the last place to receive a prize...)  
 2) Max Events (2 lists, time slots/duration, find max num of events)  
 
