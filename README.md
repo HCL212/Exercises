@@ -2,14 +2,14 @@
 
 ## Other
 
+### Lists  
+1) Consolation Prize (if int k is the last place to receive a prize...)  
+2) Max Events (2 lists, time slots/duration, find max num of events)  
+
 ### Strings
 
 1) Excel Notation (ie: 702 --> 1ZZ)  
 2) Interleave Two Strings  
-
-### Lists  
-1) Consolation Prize (if int k is the last place to receive a prize...)  
-2) Max Events (2 lists, time slots/duration, find max num of events)  
 
 ## LeetCode  
 
