@@ -1,29 +1,5 @@
 # Glossary
 
-## LeetCode 
-
-## LeetCode (Guided)
-
-### Array 
-
-### Binary  
-
-### Dynamic Programming
-
-### Graph
-
-### Heap 
-
-### Interval 
-
-### Linked List 
-
-### Matrix 
-
-### String
-
-### Tree 
-
 ## CTCI  
 
 ### Chapter 1 (Arrays and Strings)  
@@ -266,7 +242,31 @@
 25) Word Rectangle  
 26) Sparse Similarity  
 
-### EPI
+## LeetCode 
+
+## LeetCode (Guided)
+
+### Array 
+
+### Binary  
+
+### Dynamic Programming
+
+### Graph
+
+### Heap 
+
+### Interval 
+
+### Linked List 
+
+### Matrix 
+
+### String
+
+### Tree 
+
+## EPI
 
 ## Other
 
