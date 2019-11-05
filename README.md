@@ -1,6 +1,6 @@
 # Glossary
 
-## CTCI  
+## CTCI (Cracking the Coding Interview) 
 
 ### Data Structures
 1) Arrays and Strings 
@@ -27,7 +27,7 @@
 16) Moderate
 17) Hard
 
-## EPI
+## EPI (Elements of Programming Interviews)
 
 ### Problems
 5) Primitive Types
@@ -56,7 +56,7 @@
 ### The Honors Class
 25) Honors Class
 
-## LeetCode [Guided](https://www.teamblind.com/article/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU)
+## LeetCode [Curated](https://www.teamblind.com/article/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU)
 
 ### Array 
 - Two Sum - [Easy](https://leetcode.com/problems/two-sum/)
@@ -170,4 +170,3 @@
 ## Authors
 
 * **Hugh Leow**
-
