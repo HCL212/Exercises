@@ -158,11 +158,11 @@
 
 ## Other
 
-### Lists  
+### List 
 - Consolation Prize (if int k is the last place to receive a prize...)  
 - Max Events (2 lists, time slots/duration, find max num of events)  
 
-### Strings
+### String
     
 - Excel Notation (ie: 702 --> 1ZZ)  
 - Interleave Two Strings  
