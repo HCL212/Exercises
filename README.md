@@ -61,9 +61,9 @@
 ### Array 
 - [x] Two Sum - [Easy](https://leetcode.com/problems/two-sum/)
 - [x] Best Time to Buy and Sell Stock - [Easy](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
-- [ ] Contains Duplicate - [Easy](https://leetcode.com/problems/contains-duplicate/)
-- [ ] Maximum Subarray - [Easy](https://leetcode.com/problems/maximum-subarray/)
-- [ ] Product of Array Except Self - [Medium](https://leetcode.com/problems/product-of-array-except-self/)
+- [x] Contains Duplicate - [Easy](https://leetcode.com/problems/contains-duplicate/)
+- [x] Maximum Subarray - [Easy](https://leetcode.com/problems/maximum-subarray/)
+- [x] Product of Array Except Self - [Medium](https://leetcode.com/problems/product-of-array-except-self/)
 - [ ] Maximum Product Subarray - [Medium](https://leetcode.com/problems/maximum-product-subarray/)
 - [ ] Find Minimum in Rotated Sorted Array - [Medium](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 - [ ] Search in Rotated Sorted Array - [Medium](https://leetcode.com/problems/search-in-rotated-sorted-array/)
