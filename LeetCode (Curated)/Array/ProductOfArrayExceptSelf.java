@@ -6,8 +6,8 @@
  * Output: [24,12,8,6]
  *
  * EXAMPLE:
- * Input: [4,5,1,2,8]
- * Output: [80,64,320,160,40]
+ * Input: [4,5,1,8,2]
+ * Output: [80,64,320,40,160]
  *
  * Note: Please solve it without division and in O(n).
  *
@@ -61,12 +61,17 @@ class Solution {
 // Input array: [4, 5, 1, 8, 2]
 // Left Array: [1, 4, 20, 20, 160]
 // Right Array: [80, 16, 16, 2, 1]
-// Solution Array: [80, 64, 320, 160, 40]
+// Solution Array: [80,64,320,40,160]
 //
 //                  [4, 5, 1, 8, 2]
 //    [1, 4, 20, 20, 160]    [80, 16, 16, 2, 1]
 //                        =
-//              [80, 64, 320, 160, 40]
+//               [80,64,320,40,160]
+//
+// Explanation: If for example we want i = 1 (index/position of input array)
+// Product of everything left of i from the input array will be in Left[i]
+// Product of everything right of i from the input array will be in Right[i]
+// Multiply Left[i] with Right[i] to get solution[i]
 //
 // Time complexity : O(N) where N represents the number of elements in the input array. 
 // We use one iteration to construct the Left array
@@ -90,6 +95,7 @@ class Solution {
             left[i] = left[i-1] * nums[i-1];
         }
         
+        // NOTE: Right will be done in reverse of what we did in Left
         // Right[i] will contain the product of ALL the numbers right of i from the INPUT array
         // Right[length-1] = 1 since there is nothing to the right of input[length-1]
         // Right[i+1] already contains the previous products
@@ -107,3 +113,39 @@ class Solution {
         return solution;
     }
 }
+
+// FOLLOW UP 
+// same as previous solution, except we do not build Right array
+// build left array with left[0] = 1, etc (see previous explanation)
+//
+// Time complexity : O(N) where N represents the number of elements in the input array. 
+// We use one iteration to construct the array "left", one to update the array with solution.
+// O(2N) = O(N) since we drop constants
+//
+// Space complexity : O(1) since we don't use any additional array for our computations. 
+// The problem statement mentions that using the solution array doesn't add to the space complexity.
+class Solution {
+    public int[] productExceptSelf(int[] nums) {
+        int length = nums.length;
+        int[] solution = new int[length];
+        
+        // same as "left" from above solution
+        solution[0] = 1;
+        for (int i = 1; i < length; i++){
+            solution[i] = solution[i-1] * nums[i-1];
+        }
+        
+        // after solution array is built with "left" products elements
+        // we iterate backwards through the solution array
+        // using "int right" as a placeholder for right products
+        // and multiply into solution array
+        int right = 1;
+        for (int i = length - 1; i >= 0; i--){
+            solution[i] *= right;
+            right *= nums[i];
+        }
+        
+        return solution;
+    }
+}
+
