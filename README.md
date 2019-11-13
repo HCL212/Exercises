@@ -71,7 +71,7 @@
 - [ ] Container With Most Water - [Medium](https://leetcode.com/problems/container-with-most-water/)
 
 ### Binary  
-- [ ] Sum of Two Integers - [Easy](https://leetcode.com/problems/sum-of-two-integers/)
+- [x] Sum of Two Integers - [Easy](https://leetcode.com/problems/sum-of-two-integers/)
 - [ ] Number of 1 Bits - [Easy](https://leetcode.com/problems/number-of-1-bits/)
 - [ ] Missing Number - [Easy](https://leetcode.com/problems/missing-number/)
 - [ ] Reverse Bits - [Easy](https://leetcode.com/problems/reverse-bits/)
