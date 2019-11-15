@@ -19,6 +19,8 @@ class exercise {
 
         String merged = "";
 
+        // if string1 is >= string 2, iterate through string1
+        // and add letters to "merged" from both until string2 runs out
         if (str1.length() >= str2.length()){
             for (int i = 0; i < str1.length(); i++){
                 merged += str1.charAt(i);
@@ -28,6 +30,7 @@ class exercise {
             }
         }
 
+        // if string2 is longer, do same as above
         if (str2.length() > str1.length()){
             for (int i = 0; i < str2.length(); i++){
                 if (i < str1.length())

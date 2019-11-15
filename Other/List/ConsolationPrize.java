@@ -34,6 +34,8 @@ class exercise {
         int currRank = 0;
         int prevMark = marks.get(0);
 
+        // iterate through List, and increment prizes if current rank
+        // is less than k, or previous mark is equal to current mark
         for (int i = 0; i < marks.size(); i++){
             currRank++;
             if (currRank <= k || marks.get(i) == prevMark)

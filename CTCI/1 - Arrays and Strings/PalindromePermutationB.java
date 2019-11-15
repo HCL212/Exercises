@@ -33,7 +33,7 @@ class exercise {
         int oddCount = 0;
 
         // loop through the HashMap keyset
-        // if odd, add to oddCouunt
+        // if odd, add to oddCount
         for (char key : map.keySet()) {
             oddCount += map.get(key) % 2;
         }
