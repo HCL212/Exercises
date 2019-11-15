@@ -32,6 +32,9 @@ class exercise {
                 countConsecutive = 0;
             }
         }
+
+        String x = compressed.toString();
+        System.out.println(x);
         
         // return shorter of the two
         return compressed.length() < str.length() ? compressed.toString() : str;

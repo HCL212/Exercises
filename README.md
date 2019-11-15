@@ -129,7 +129,7 @@
 ### String
 - [x] Valid Anagram - [Easy](https://leetcode.com/problems/valid-anagram/)
 - [x] Valid Parentheses - [Easy](https://leetcode.com/problems/valid-parentheses/)
-- [ ] Valid Palindrome - [Easy](https://leetcode.com/problems/valid-palindrome/)
+- [x] Valid Palindrome - [Easy](https://leetcode.com/problems/valid-palindrome/)
 - [ ] Longest Substring Without Repeating Characters - [Medium](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 - [ ] Longest Repeating Character Replacement - [Medium](https://leetcode.com/problems/longest-repeating-character-replacement/)
 - [ ] Group Anagrams - [Medium](https://leetcode.com/problems/group-anagrams/)
