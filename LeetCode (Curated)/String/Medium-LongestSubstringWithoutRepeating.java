@@ -74,6 +74,10 @@ class Solution {
 // If no duplicates found, determine max between (max, j-i+1), +1 due to j not being incremented yet
 // If no duplicates found, put element j in map with value j+1, +1 due to j not being incremented yet
 // and so that i can jump ahead to the next element after original duplicate
+// 
+// Time complexity : O(n). Index j will iterate n times.
+// Space complexity (HashMap) : O(min(m,n)). Same as the previous approach.
+// Space complexity (Table): O(m). m is the size of the charset.
 class Solution {
     public int lengthOfLongestSubstring(String s) {
         int max = 0;

@@ -113,8 +113,8 @@
 - [ ] Meeting Rooms II - [Leetcode Premium](https://leetcode.com/problems/meeting-rooms-ii/)
 
 ### Linked List 
-- [ ] Reverse a Linked List - [Easy](https://leetcode.com/problems/reverse-linked-list/)
-- [ ] Detect Cycle in a Linked List - [Easy](https://leetcode.com/problems/linked-list-cycle/)
+- [x] Reverse a Linked List - [Easy](https://leetcode.com/problems/reverse-linked-list/)
+- [x] Detect Cycle in a Linked List - [Easy](https://leetcode.com/problems/linked-list-cycle/)
 - [ ] Merge Two Sorted Lists - [Easy](https://leetcode.com/problems/merge-two-sorted-lists/)
 - [ ] Remove Nth Node From End Of List - [Medium](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 - [ ] Reorder List - [Medium](https://leetcode.com/problems/reorder-list/)
@@ -157,15 +157,11 @@
 ## LeetCode 
 
 ## Other
-
-### List 
-- Consolation Prize (if int k is the last place to receive a prize...)  
-- Max Events (2 lists, time slots/duration, find max num of events)  
-
-### String
-    
-- Excel Notation (ie: 702 --> 1ZZ)  
-- Interleave Two Strings  
+- [Binary] Get Integer Complement (convert to binary, invert, then back to binary)
+- [List] Consolation Prize (if int k is the last place to receive a prize...)
+- [List] Max Events (2 lists, time slots/duration, find max num of events)  
+- [String] Excel Notation (ie: 702 --> 1ZZ)  
+- [String] Interleave Two Strings  
 
 ## Authors
 
