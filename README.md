@@ -157,11 +157,14 @@
 ## LeetCode 
 
 ## Other
-- [Binary] Get Integer Complement (convert to binary, invert, then back to binary)
-- [List] Consolation Prize (if int k is the last place to receive a prize...)
-- [List] Max Events (2 lists, time slots/duration, find max num of events)  
-- [String] Excel Notation (ie: 702 --> 1ZZ)  
-- [String] Interleave Two Strings  
+- **Binary** 
+  1. Get Integer Complement (convert to binary, invert, then back to binary)
+- **List**
+  1. Consolation Prize (if int k is the last place to receive a prize...)
+  2. Max Events (2 lists, time slots/duration, find max num of events)  
+- **String** 
+  1. Excel Notation (ie: 702 --> 1ZZ)  
+  2. Interleave Two Strings  
 
 ## Authors
 
