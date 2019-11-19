@@ -115,7 +115,7 @@
 ### Linked List 
 - [x] Reverse a Linked List - [Easy](https://leetcode.com/problems/reverse-linked-list/)
 - [x] Detect Cycle in a Linked List - [Easy](https://leetcode.com/problems/linked-list-cycle/)
-- [ ] Merge Two Sorted Lists - [Easy](https://leetcode.com/problems/merge-two-sorted-lists/)
+- [x] Merge Two Sorted Lists - [Easy](https://leetcode.com/problems/merge-two-sorted-lists/)
 - [ ] Remove Nth Node From End Of List - [Medium](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 - [ ] Reorder List - [Medium](https://leetcode.com/problems/reorder-list/)
 - [ ] Merge K Sorted Lists - [Hard](https://leetcode.com/problems/merge-k-sorted-lists/)
