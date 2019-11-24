@@ -152,7 +152,7 @@
 - [ ] Insert Interval - [Hard](https://leetcode.com/problems/insert-interval/)
 - [ ] Meeting Rooms - [Leetcode Premium](https://leetcode.com/problems/meeting-rooms/)
 - [ ] Meeting Rooms II - [Leetcode Premium](https://leetcode.com/problems/meeting-rooms-ii/)
-<details>
+</details>
 
 <details>
   <summary>Linked List</summary>
