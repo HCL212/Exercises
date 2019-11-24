@@ -1,12 +1,19 @@
-# Glossary
+# Table of Contents
+- [CTCI (Cracking the Coding Interview)](#ctci)
+- [Leetcode (Curated)](#leetcode-[curated])
+- [Leetcode](#leetcode)
+- [Others](#others)
+- [Author](#author)
 
-## CTCI (Cracking the Coding Interview) 
+## CTCI
 
-### Data Structures
+<details>
+  <summary>Data Structures</summary>
 1) Arrays and Strings 
 2) Linked Lists
 3) Stacks and Queues
 4) Trees and Graphs
+</details>
 
 ### Concepts and Algorithms
 5) Bit Manipulation
@@ -169,6 +176,6 @@
   1. Excel Notation (ie: 702 --> 1ZZ)  
   2. Interleave Two Strings  
 
-## Authors
+## Author
 
 * **Hugh Leow**
