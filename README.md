@@ -1,9 +1,9 @@
 # Table of Contents
 - [CTCI (Cracking the Coding Interview)](#ctci)
-- [Elements of Programming Interviews](#epi)
+- [EPI (Elements of Programming Interviews)](#epi)
 - [Leetcode (Curated)](#leetcode-curated)
 - [Leetcode](#leetcode)
-- [Others](#others)
+- [Other](#other)
 - [Author](#author)
 
 ## CTCI
@@ -12,6 +12,15 @@
   <summary>Data Structures</summary>  
 
 #### 1) Arrays and Strings:
+1) Is Unique
+2) Check Permutation
+3) URLify
+4) Palindrome Permutation
+5) One Away
+6) String Compression
+7) Rotate Matrix
+8) Zero Matrix
+9) String Rotation
 #### 2) Linked Lists: 
 #### 3) Stacks and Queues:
 #### 4) Trees and Graphs:
