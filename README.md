@@ -97,14 +97,19 @@
 - [ ] Container With Most Water - [Medium](https://leetcode.com/problems/container-with-most-water/)
 </details>
 
-### Binary  
+<details>
+  <summary>Binary</summary>
+
 - [x] Sum of Two Integers - [Easy](https://leetcode.com/problems/sum-of-two-integers/)
 - [ ] Number of 1 Bits - [Easy](https://leetcode.com/problems/number-of-1-bits/)
 - [ ] Missing Number - [Easy](https://leetcode.com/problems/missing-number/)
 - [ ] Reverse Bits - [Easy](https://leetcode.com/problems/reverse-bits/)
 - [ ] Counting Bits - [Medium](https://leetcode.com/problems/counting-bits/)
+</details>
 
-### Dynamic Programming
+<details>
+  <summary>Dynamic Programming</summary>
+
 - [ ] Climbing Stairs - [Easy](https://leetcode.com/problems/climbing-stairs/)
 - [ ] House Robber - [Easy](https://leetcode.com/problems/house-robber/)
 - [ ] Coin Change - [Medium](https://leetcode.com/problems/coin-change/)
@@ -116,8 +121,11 @@
 - [ ] Decode Ways - [Medium](https://leetcode.com/problems/decode-ways/)
 - [ ] Unique Paths - [Medium](https://leetcode.com/problems/unique-paths/)
 - [ ] Jump Game - [Medium](https://leetcode.com/problems/jump-game/)
+</details>
 
-### Graph
+<details>
+  <summary>Graph</summary>
+
 - [ ] Clone Graph - [Medium](https://leetcode.com/problems/clone-graph/)
 - [ ] Course Schedule - [Medium](https://leetcode.com/problems/course-schedule/)
 - [ ] Pacific Atlantic Water Flow - [Medium](https://leetcode.com/problems/pacific-atlantic-water-flow/)
@@ -126,34 +134,49 @@
 - [ ] Alien Dictionary - [Leetcode Premium](https://leetcode.com/problems/alien-dictionary/)
 - [ ] Graph Valid Tree - [Leetcode Premium](https://leetcode.com/problems/graph-valid-tree/)
 - [ ] Number of Connected Components in an Undirected Graph - [Leetcode Premium](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)
+</details>
 
-### Heap 
+<details>
+  <summary>Heap</summary> 
+
 - [ ] Top K Frequent Elements - [Medium](https://leetcode.com/problems/top-k-frequent-elements/)
 - [ ] Merge K Sorted Lists - [Hard](https://leetcode.com/problems/merge-k-sorted-lists/)
 - [ ] Find Median from Data Stream - [Hard](https://leetcode.com/problems/find-median-from-data-stream/)
+</details>
 
-### Interval 
+<details>
+  <summary>Interval</summary>
+
 - [ ] Merge Intervals - [Medium](https://leetcode.com/problems/merge-intervals/)
 - [ ] Non-overlapping Intervals - [Medium](https://leetcode.com/problems/non-overlapping-intervals/)
 - [ ] Insert Interval - [Hard](https://leetcode.com/problems/insert-interval/)
 - [ ] Meeting Rooms - [Leetcode Premium](https://leetcode.com/problems/meeting-rooms/)
 - [ ] Meeting Rooms II - [Leetcode Premium](https://leetcode.com/problems/meeting-rooms-ii/)
+<details>
 
-### Linked List 
+<details>
+  <summary>Linked List</summary>
+
 - [x] Reverse a Linked List - [Easy](https://leetcode.com/problems/reverse-linked-list/)
 - [x] Detect Cycle in a Linked List - [Easy](https://leetcode.com/problems/linked-list-cycle/)
 - [x] Merge Two Sorted Lists - [Easy](https://leetcode.com/problems/merge-two-sorted-lists/)
 - [ ] Remove Nth Node From End Of List - [Medium](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 - [ ] Reorder List - [Medium](https://leetcode.com/problems/reorder-list/)
 - [ ] Merge K Sorted Lists - [Hard](https://leetcode.com/problems/merge-k-sorted-lists/)
+</details>
 
-### Matrix 
+<details>
+  <summary>Matrix</summary>
+
 - [ ] Set Matrix Zeroes - [Medium](https://leetcode.com/problems/set-matrix-zeroes/)
 - [ ] Spiral Matrix - [Medium](https://leetcode.com/problems/spiral-matrix/)
 - [ ] Rotate Image - [Medium](https://leetcode.com/problems/rotate-image/)
 - [ ] Word Search - [Medium](https://leetcode.com/problems/word-search/)
+</details>
 
-### String
+<details>
+  <summary>String</summary>
+
 - [x] Valid Anagram - [Easy](https://leetcode.com/problems/valid-anagram/)
 - [x] Valid Parentheses - [Easy](https://leetcode.com/problems/valid-parentheses/)
 - [x] Valid Palindrome - [Easy](https://leetcode.com/problems/valid-palindrome/)
@@ -164,8 +187,11 @@
 - [ ] Palindromic Substrings - [Medium](https://leetcode.com/problems/palindromic-substrings/)
 - [ ] Minimum Window Substring - [Hard](https://leetcode.com/problems/minimum-window-substring/)
 - [ ] Encode and Decode Strings [Leetcode Premium](https://leetcode.com/problems/encode-and-decode-strings/)
+</details>
 
-### Tree 
+<details>
+  <summary>Tree</summary>
+
 - [ ] Maximum Depth of Binary Tree - [Easy](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 - [ ] Same Tree - [Easy](https://leetcode.com/problems/same-tree/)
 - [ ] Invert/Flip Binary Tree - [Easy](https://leetcode.com/problems/invert-binary-tree/)
@@ -180,21 +206,37 @@
 - [ ] Binary Tree Maximum Path Sum - [Hard](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
 - [ ] Serialize and Deserialize Binary Tree - [Hard](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
 - [ ] Word Search II - [Hard](https://leetcode.com/problems/word-search-ii/)
+</details>
 
 ## LeetCode 
 
-### Array
+<details>
+  <summary>Array</summary>
+
 - [x] Subarray Product Less Than K - [Medium](https://leetcode.com/problems/subarray-product-less-than-k/)
+</details>
 
 ## Other
-- **Binary** 
+
+<details>
+  <summary>Binary</summary>
+
   1. Get Integer Complement (convert to binary, invert, then back to binary)
-- **List**
+</details>
+
+<details>
+  <summary>List</summary>
+
   1. Consolation Prize (if int k is the last place to receive a prize...)
   2. Max Events (2 lists, time slots/duration, find max num of events)  
-- **String** 
+</details>
+
+<details>
+  <summary>String<summary>
+
   1. Excel Notation (ie: 702 --> 1ZZ)  
   2. Interleave Two Strings  
+</details>
 
 ## Author
 
