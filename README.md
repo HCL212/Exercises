@@ -12,46 +12,243 @@
   <summary>Data Structures</summary>  
 
 #### 1) Arrays and Strings:
-- [x] 1.1 Is Unique
-2) Check Permutation
-3) URLify
-4) Palindrome Permutation
-5) One Away
-6) String Compression
-7) Rotate Matrix
-8) Zero Matrix
-9) String Rotation
+- [x] Is Unique
+- [x] Check Permutation
+- [x] URLify
+- [x] Palindrome Permutation
+- [x] One Away
+- [x] String Compression
+- [x] Rotate Matrix
+- [x] Zero Matrix
+- [x] String Rotation
+
 #### 2) Linked Lists: 
+- [x] Remove Dups
+- [x] Return Kth to Last
+- [x] Delete Middle Node
+- [x] Partition
+- [x] Sum Lists
+- [x] Palindrome
+- [x] Intersection
+- [x] Loop Detection
+
 #### 3) Stacks and Queues:
+- [ ] Three in One
+- [ ] Stack Min
+- [x] Stack of Plates
+- [ ] Queue via Stacks
+- [x] Sort Stack
+- [x] Animal Shelter
+
 #### 4) Trees and Graphs:
+- [x] Route Between Nodes
+- [x] Minimal Tree
+- [ ] List of Depths
+- [ ] Check Balanced
+- [ ] Validate BST
+- [ ] Successor
+- [ ] Build Order
+- [ ] First Common Ancestor
+- [ ] BST Sequences
+- [ ] Check Subtree
+- [ ] Random Node
+- [ ] Parts with Sum
+
 </details>
 
 <details>
   <summary>Concepts and Algorithms</summary>
 
 #### 5) Bit Manipulation:
+- [ ] Insertion
+- [ ] Binary to String
+- [ ] Flip Bit to Win
+- [ ] Next Number
+- [ ] Debugger
+- [ ] Conversion
+- [ ] Pairwise Swap
+- [ ] Draw Line
+
 #### 6) Math and Logic Puzzles:
+- [ ] The Heavy Pill
+- [ ] Basketball
+- [ ] Dominos
+- [ ] Ants on a Triangle
+- [ ] Jugs of Water
+- [ ] Blue-Eyes Island
+- [ ] The Apocalypse
+- [ ] The Egg Drop Problem
+- [ ] 100 Lockers
+- [ ] Poison
+
 #### 7) Object-Oriented Design:
+- [ ] Deck of Cards
+- [ ] Call Center
+- [ ] Jukebox
+- [ ] Parking Lot
+- [ ] Online Book Reader
+- [ ] Jigsaw
+- [ ] Chat Server
+- [ ] Othello
+- [ ] Circular Array
+- [ ] Minesweeper
+- [ ] File System
+- [ ] Hash Table
+
 #### 8) Recursion and Dynamic Programming:
+- [ ] Triple Step
+- [ ] Robot in a Grid
+- [ ] Magic Index
+- [ ] Power Set
+- [ ] Recursive Multiply
+- [ ] Towers of Hanoi
+- [ ] Permutations without Dups
+- [ ] Permutations with Dups
+- [ ] Parens
+- [ ] Paint Fill
+- [ ] Coins
+- [ ] Eight Queens
+- [ ] Stack of Boxes
+- [ ] Boolean Evaluation
+
 #### 9) System Design and Scalability:
+- [ ] Stock Data
+- [ ] Social Network
+- [ ] Web Crawler
+- [ ] Duplicate URLs
+- [ ] Cache
+- [ ] Sales Rank
+- [ ] Personal Financial Manager
+- [ ] Pastebin
+
 #### 10) Sorting and Searching:
+- [ ] Sorted Merge
+- [ ] Group ANagrams
+- [ ] Search in Rotated Array
+- [ ] Sorted Search, No Size
+- [ ] Sparse Search
+- [ ] Sort Big File
+- [ ] Missing Int
+- [ ] Find Duplicates
+- [ ] Sorted Matrix Search
+- [ ] Rank from Stream
+- [ ] Peaks and Valleys
+
 #### 11) Testing:
+- [ ] Mistake
+- [ ] Random Crashes
+- [ ] Chess Test
+- [ ] No Test Tools
+- [ ] Test a Pen
+- [ ] Test an ATM
+
 </details>
 
 <details>
   <summary>Knowledge Based</summary>
 
 #### 12) C and C++:
+- [ ] Last K Lines
+- [ ] Reverse String
+- [ ] Hash Table vs. STL Map
+- [ ] Virtual Functions
+- [ ] Shallow vs. Deep Copy
+- [ ] Volatile
+- [ ] Virtual Base Class
+- [ ] Copy Node
+- [ ] Smart Pointer
+- [ ] Malloc
+- [ ] 2D Alloc
+
 #### 13) Java:
+- [ ] Private Constructor
+- [ ] Return from Finally
+- [ ] Final, etc.
+- [ ] Generics vs. Templates
+- [ ] TreeMap, HashMap, LinkedHashMap
+- [ ] Object Reflection
+- [ ] Lambda Expressions
+- [ ] Lambda Random
+
 #### 14) Databases:
+- [ ] Multiple Apartments
+- [ ] Open Requests
+- [ ] Close All Requests
+- [ ] Joins
+- [ ] Denormalization
+- [ ] Entity-Relationship Diagram
+- [ ] Design Grade Database
+
 #### 15) Threads and Locks:
+- [ ] Thread vs. Process
+- [ ] Context Switch
+- [ ] Dining Philosophers
+- [ ] Deadlock-Free Clas
+- [ ] Call In Order
+- [ ] Synchronized Methods
+- [ ] FizzBuzz
+
 </details>
 
 <details>
   <summary>Additional Review Problems</summary>
 
 #### 16) Moderate:
+- [ ] Number Swapper
+- [ ] Word Frequencies
+- [ ] Intersection
+- [ ] Tic Tac Win
+- [ ] Factorial Zeros
+- [ ] Smallest Difference
+- [ ] Number Max
+- [ ] English Int
+- [ ] Operations
+- [ ] Living People
+- [ ] Diving Board
+- [ ] XML Encoding
+- [ ] Bisect Squares
+- [ ] Best Line
+- [ ] Master Mind
+- [ ] Sub Sort
+- [ ] Contiguous Sequence
+- [ ] Pattern Matching
+- [ ] Pond Sizes
+- [ ] T9
+- [ ] Sum Swap
+- [ ] Langton's Ant
+- [ ] Rand7 from Rand5
+- [ ] Pairs with Sum
+- [ ] LRU Cache
+- [ ] Calculator
+
 #### 17) Hard:
+- [ ] Add Without Plus
+- [ ] Shuffle
+- [ ] Random Set
+- [ ] Missing Number
+- [ ] Letters and Numbers
+- [ ] Count of 2s
+- [ ] Baby Names
+- [ ] Circus Tower
+- [ ] Kth Multiple
+- [ ] Majority Element
+- [ ] Word Distance
+- [ ] BiNodde
+- [ ] Re-Space
+- [ ] Smallest K
+- [ ] Longest Word
+- [ ] The Masseuse
+- [ ] Multi Search
+- [ ] Shortest Supersequence
+- [ ] Missing Two
+- [ ] Continuous Median
+- [ ] Volume of Histogram
+- [ ] Word Transformer
+- [ ] Max Black Square
+- [ ] Max Submatrix
+- [ ] Word Rectangle
+- [ ] Sparse Similarity
+
 </details>
 
 ## EPI
@@ -75,8 +272,11 @@
 #### 18) Greedy Algorithms and Invariants:
 #### 19) Graphs:
 #### 20) Parallel Computing:
+</details>
 
-### Domain Specific Problems
+<details>
+  <summary>Domain Specific Problems</summary>
+
 #### 21) Design Problems:
 #### 22) Language Questions:
 #### 23) Object-Oriented Design:
