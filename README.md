@@ -10,7 +10,6 @@
 
 <details>
   <summary>Data Structures</summary>  
-
 #### 1) Arrays and Strings:
 #### 2) Linked Lists: 
 #### 3) Stacks and Queues:
@@ -19,57 +18,66 @@
 
 <details>
   <summary>Concepts and Algorithms</summary>
-5) Bit Manipulation
-6) Math and Logic Puzzles
-7) Object-Oriented Design
-8) Recursion and Dynamic Programming
-9) System Design and Scalability
-10) Sorting and Searching
-11) Testing
+#### 5) Bit Manipulation:
+#### 6) Math and Logic Puzzles:
+#### 7) Object-Oriented Design:
+#### 8) Recursion and Dynamic Programming:
+#### 9) System Design and Scalability:
+#### 10) Sorting and Searching:
+#### 11) Testing:
 </details>
 
-### Knowledge Based
-12) C and C++
-13) Java
-14) Databases
-15) Threads and Locks
+<details>
+  <summary>Knowledge Based</summary>
+#### 12) C and C++:
+#### 13) Java:
+#### 14) Databases:
+#### 15) Threads and Locks:
+</details>
 
-### Additional Review Problems
-16) Moderate
-17) Hard
+<details>
+  <summary>Additional Review Problems</summary>
+#### 16) Moderate:
+#### 17) Hard:
+<details>
 
 ## EPI
 
-### Problems
-5) Primitive Types
-6) Arrays
-7) Strings
-8) Linked Lists
-9) Stacks and Queues
-10) Binary Trees
-11) Heaps
-12) Searching
-13) Hash Tables
-14) Searching
-15) Binary Search Trees
-16) Recursion
-17) Dynamic Programming
-18) Greedy Algorithms and Invariants
-19) Graphs
-20) Parallel Computing
+<details>
+  <summary>Problems</summary>
+#### 5) Primitive Types:
+#### 6) Arrays:
+#### 7) Strings:
+#### 8) Linked Lists:
+#### 9) Stacks and Queues:
+#### 10) Binary Trees:
+#### 11) Heaps:
+#### 12) Searching:
+#### 13) Hash Tables:
+#### 14) Searching:
+#### 15) Binary Search Trees:
+#### 16) Recursion:
+#### 17) Dynamic Programming:
+#### 18) Greedy Algorithms and Invariants:
+#### 19) Graphs:
+#### 20) Parallel Computing:
 
 ### Domain Specific Problems
-21) Design Problems
-22) Language Questions
-23) Object-Oriented Design
-24) Common Tools
+#### 21) Design Problems:
+#### 22) Language Questions:
+#### 23) Object-Oriented Design:
+#### 24) Common Tools:
+</details>
 
-### The Honors Class
-25) Honors Class
+<details>
+  <summary>The Honors Class</summary>
+#### 25) Honors Class:
+</details>
 
 ## LeetCode [Curated](https://www.teamblind.com/article/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU)
 
-### Array 
+<details>
+  <summary>Array</summary>
 - [x] Two Sum - [Easy](https://leetcode.com/problems/two-sum/)
 - [x] Best Time to Buy and Sell Stock - [Easy](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - [x] Contains Duplicate - [Easy](https://leetcode.com/problems/contains-duplicate/)
@@ -80,6 +88,7 @@
 - [ ] Search in Rotated Sorted Array - [Medium](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 - [ ] 3Sum - [Medium](https://leetcode.com/problems/3sum/)
 - [ ] Container With Most Water - [Medium](https://leetcode.com/problems/container-with-most-water/)
+</details>
 
 ### Binary  
 - [x] Sum of Two Integers - [Easy](https://leetcode.com/problems/sum-of-two-integers/)
