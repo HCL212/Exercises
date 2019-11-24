@@ -1,7 +1,7 @@
 # Table of Contents
 - [CTCI (Cracking the Coding Interview)](#ctci)
 - [Elements of Programming Interviews](#epi)
-- [Leetcode (Curated)](#leetcode-c)
+- [Leetcode (Curated)](#leetcode-curated)
 - [Leetcode](#leetcode)
 - [Others](#others)
 - [Author](#author)
@@ -67,7 +67,7 @@
 ### The Honors Class
 25) Honors Class
 
-## LeetCode C[Curated](https://www.teamblind.com/article/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU)
+## LeetCode [Curated](https://www.teamblind.com/article/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU)
 
 ### Array 
 - [x] Two Sum - [Easy](https://leetcode.com/problems/two-sum/)
