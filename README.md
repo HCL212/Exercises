@@ -10,16 +10,18 @@
 
 <details>
   <summary>Data Structures</summary>  
-#### 1. Arrays and Strings:
-#### 2. Linked Lists: 
-#### 3. Stacks and Queues:
-#### 4. Trees and Graphs:
+
+#### 1) Arrays and Strings:
+#### 2) Linked Lists: 
+#### 3) Stacks and Queues:
+#### 4) Trees and Graphs:
 </details>
 
 <details>
   <summary>Concepts and Algorithms</summary>
-#### 5) Bit Manipulation:  
-#### 6) Math and Logic Puzzles:  
+
+#### 5) Bit Manipulation:
+#### 6) Math and Logic Puzzles:
 #### 7) Object-Oriented Design:
 #### 8) Recursion and Dynamic Programming:
 #### 9) System Design and Scalability:
@@ -29,6 +31,7 @@
 
 <details>
   <summary>Knowledge Based</summary>
+
 #### 12) C and C++:
 #### 13) Java:
 #### 14) Databases:
@@ -37,6 +40,7 @@
 
 <details>
   <summary>Additional Review Problems</summary>
+
 #### 16) Moderate:
 #### 17) Hard:
 </details>
@@ -45,6 +49,7 @@
 
 <details>
   <summary>Problems</summary>
+
 #### 5) Primitive Types:
 #### 6) Arrays:
 #### 7) Strings:
@@ -71,6 +76,7 @@
 
 <details>
   <summary>The Honors Class</summary>
+
 #### 25) Honors Class:
 </details>
 
@@ -78,6 +84,7 @@
 
 <details>
   <summary>Array</summary>
+
 - [x] Two Sum - [Easy](https://leetcode.com/problems/two-sum/)
 - [x] Best Time to Buy and Sell Stock - [Easy](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - [x] Contains Duplicate - [Easy](https://leetcode.com/problems/contains-duplicate/)
