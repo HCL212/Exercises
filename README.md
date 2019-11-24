@@ -1,6 +1,6 @@
 # Table of Contents
 - [CTCI (Cracking the Coding Interview)](#ctci)
-- [Leetcode (Curated)](#leetcode-[curated])
+- [Leetcode (Curated)](#leetcode-)
 - [Leetcode](#leetcode)
 - [Others](#others)
 - [Author](#author)
@@ -18,8 +18,8 @@
 
 <details>
   <summary>Concepts and Algorithms</summary>
-#### Bit Manipulation
-#### Math and Logic Puzzles
+#### 5) Bit Manipulation
+#### 6) Math and Logic Puzzles
 #### 7) Object-Oriented Design
 #### 8) Recursion and Dynamic Programming
 #### 9) System Design and Scalability
