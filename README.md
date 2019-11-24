@@ -12,7 +12,7 @@
   <summary>Data Structures</summary>  
 
 #### 1) Arrays and Strings:
-1) Is Unique
+1) Is Unique [x]
 2) Check Permutation
 3) URLify
 4) Palindrome Permutation
