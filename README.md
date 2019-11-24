@@ -39,7 +39,7 @@
   <summary>Additional Review Problems</summary>
 #### 16) Moderate:
 #### 17) Hard:
-<details>
+</details>
 
 ## EPI
 
