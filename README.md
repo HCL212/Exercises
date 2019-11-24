@@ -1,6 +1,7 @@
 # Table of Contents
 - [CTCI (Cracking the Coding Interview)](#ctci)
-- [Leetcode (Curated)](#leetcode-)
+- [Elements of Programming Interviews](#epi)
+- [Leetcode (Curated)](#leetcode-c)
 - [Leetcode](#leetcode)
 - [Others](#others)
 - [Author](#author)
@@ -37,7 +38,7 @@
 16) Moderate
 17) Hard
 
-## EPI (Elements of Programming Interviews)
+## EPI
 
 ### Problems
 5) Primitive Types
@@ -66,7 +67,7 @@
 ### The Honors Class
 25) Honors Class
 
-## LeetCode [Curated](https://www.teamblind.com/article/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU)
+## LeetCode C[Curated](https://www.teamblind.com/article/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU)
 
 ### Array 
 - [x] Two Sum - [Easy](https://leetcode.com/problems/two-sum/)
