@@ -232,7 +232,7 @@
 </details>
 
 <details>
-  <summary>String<summary>
+  <summary>String</summary>
 
   1. Excel Notation (ie: 702 --> 1ZZ)  
   2. Interleave Two Strings  
