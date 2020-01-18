@@ -443,7 +443,8 @@
   <summary>List</summary>
 
   1. Consolation Prize (if int k is the last place to receive a prize...)
-  2. Max Events (2 lists, time slots/duration, find max num of events)  
+  2. Max Events (2 lists, time slots/duration, find max num of events)
+  3. Max Meetings (2 lists, arrival/departure, find max num of meetings)
 </details>
 
 <details>

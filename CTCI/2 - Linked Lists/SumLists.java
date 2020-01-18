@@ -77,7 +77,7 @@ class exercise {
    
     // elementary math from least significant # to most significant
     Node sumLists(Node head1, Node head2){
-        // sumList will be out result
+        // sumList will be our result
         // curr is what we use to append elements to sumList
         // p and q are reference pointers
         Node sumList = new Node(0);
@@ -88,7 +88,7 @@ class exercise {
 
         while (p != null || q != null){
             // if p is not null then x = p.data, else x = 0
-            // if q is not null then x = q.data, else x = 0
+            // if q is not null then y = q.data, else y = 0
             int x = (p != null) ? p.data : 0;
             int y = (q != null) ? q.data : 0;
 
