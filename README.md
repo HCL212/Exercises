@@ -299,7 +299,7 @@
 - [x] Contains Duplicate - [Easy](https://leetcode.com/problems/contains-duplicate/)
 - [x] Maximum Subarray - [Easy](https://leetcode.com/problems/maximum-subarray/)
 - [x] Product of Array Except Self - [Medium](https://leetcode.com/problems/product-of-array-except-self/)
-- [ ] Maximum Product Subarray - [Medium](https://leetcode.com/problems/maximum-product-subarray/)
+- [x] Maximum Product Subarray - [Medium](https://leetcode.com/problems/maximum-product-subarray/)
 - [ ] Find Minimum in Rotated Sorted Array - [Medium](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 - [ ] Search in Rotated Sorted Array - [Medium](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 - [ ] 3Sum - [Medium](https://leetcode.com/problems/3sum/)

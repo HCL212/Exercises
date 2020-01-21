@@ -18,7 +18,7 @@
 
 import java.util.*; 
   
-// ONE PASS (assumes there is at LEAST one positive number)
+// ONE PASS
 // iterate through the array, add index element to currentSum
 // if largestSum < currentSum, make largestSum = currentSum
 // if currentSum < 0, reset to 0
