@@ -302,7 +302,7 @@
 - [x] Maximum Product Subarray - [Medium](https://leetcode.com/problems/maximum-product-subarray/)
 - [ ] Find Minimum in Rotated Sorted Array - [Medium](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 - [ ] Search in Rotated Sorted Array - [Medium](https://leetcode.com/problems/search-in-rotated-sorted-array/)
-- [ ] 3Sum - [Medium](https://leetcode.com/problems/3sum/)
+- [x] 3Sum - [Medium](https://leetcode.com/problems/3sum/)
 - [ ] Container With Most Water - [Medium](https://leetcode.com/problems/container-with-most-water/)
 </details>
 
@@ -423,6 +423,7 @@
   <summary>Array</summary>
 
 - [x] Subarray Product Less Than K - [Medium](https://leetcode.com/problems/subarray-product-less-than-k/)
+- [x] Trapping Rain Water - [Hard](https://leetcode.com/problems/trapping-rain-water/)
 </details>
 
 ## Other

@@ -43,6 +43,7 @@ class exercise {
         System.out.println(test.excelNotation(27)); // 1AA
         System.out.println(test.excelNotation(702)); // 1ZZ
         System.out.println(test.excelNotation(703)); // 2AA
+        System.out.println(test.excelNotation(1404)); // 2ZZ
         System.out.println(test.excelNotation(905602)); // 1289PV (don't know if correct)
     }
 } 
