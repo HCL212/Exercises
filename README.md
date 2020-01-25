@@ -408,7 +408,7 @@
 - [ ] Lowest Common Ancestor of BST - [Easy](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
 - [ ] Binary Tree Level Order Traversal - [Medium](https://leetcode.com/problems/binary-tree-level-order-traversal/)
 - [ ] Construct Binary Tree from Preorder and Inorder Traversal - [Medium](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
-- [ ] Validate Binary Search Tree - [Medium](https://leetcode.com/problems/validate-binary-search-tree/)
+- [x] Validate Binary Search Tree - [Medium](https://leetcode.com/problems/validate-binary-search-tree/)
 - [ ] Kth Smallest Element in a BST - [Medium](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
 - [ ] Implement Trie (Prefix Tree) - [Medium](https://leetcode.com/problems/implement-trie-prefix-tree/)
 - [ ] Add and Search Word - [Medium](https://leetcode.com/problems/add-and-search-word-data-structure-design/)
@@ -422,6 +422,7 @@
 <details>
   <summary>Array</summary>
 
+- [x] Design Hit Counter - [Medium](https://leetcode.com/problems/design-hit-counter/)
 - [x] Subarray Product Less Than K - [Medium](https://leetcode.com/problems/subarray-product-less-than-k/)
 - [x] Trapping Rain Water - [Hard](https://leetcode.com/problems/trapping-rain-water/)
 </details>
